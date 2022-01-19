@@ -1,2 +1,6 @@
 # Inter-Frontend-Developer
-Bootcamp Inter Frontend Developer   Desafios realizadas através do React, Bootstrap, MySQL, entre outras tecnologias e linguagem de programação sendo umas das principais tecnologias utilizadas pelo Inter, que é uma das maiores e mais completas plataformas digitais de serviços financeiros e não financeiros do Brasil. 
+Bootcamp Inter Frontend Developer Parceira entre Inter e Digital Innovation One.
+
+# Desafio Netflix
+Projeto consiste em recriar a interface do Netflix, criado através de tecnologias como HTML, CSS e linguagens de programação JavaScript, e framework Jquery.
+
